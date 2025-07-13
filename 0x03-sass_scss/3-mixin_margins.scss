@@ -1,0 +1,9 @@
+$marg:10px;
+$marg-left:15px;
+body {
+  margin-left: $marg;
+  margin-right: $marg }
+
+div {
+  margin-left: $marg-left;
+  margin-right: $marg-left; }
